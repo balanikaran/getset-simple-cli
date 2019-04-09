@@ -1,5 +1,5 @@
 # CLI written in Python - (getset)
-### A simple CLI which hits a web server end point to save, retrieve and listen to <key, value> pairs stored in th database
+### A simple CLI which hits a web server end point to save, retrieve and listen to <key, value> pairs stored in the database
 ### Note: for this CLI to work you need this server: [Server Repository](https://github.com/krnblni/getset-web-server)
 ---
 
