@@ -9,7 +9,7 @@
 ## Quick Start
 ``` bash
 # Clone this repository
-git clone https://github.com/krnblni/getset-web-server
+git clone https://github.com/krnblni/getset-simple-cli
 
 ## Get a virtual environment up and activated
 # Create a virtual enviroment
@@ -25,6 +25,18 @@ pip install --editable .
 getset
 ```
 Run [getset-web-server](https://github.com/krnblni/getset-web-server) along with this.
+``` bash
+### After running the server
+
+# Add a new <key, value> pair to database
+getset set <key> <value>
+
+# Get value of key from the server
+getset get <key>
+
+# Listen to a value of key (checks every 2 seconds)
+getset listen <key>
+```
 
 ## App Info
 
