@@ -24,7 +24,7 @@ pip install --editable .
 # Check for command 
 getset
 ```
-Run [getset-web-server](https://github.com/krnblni/getset-web-server) along with this.
+Before proceeding please run [getset-web-server](https://github.com/krnblni/getset-web-server) along with this.
 ``` bash
 ### After running the server
 
